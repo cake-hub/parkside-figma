@@ -1,0 +1,8 @@
+version: 1.0.0
+designLine: "Amandine"
+company: Parkside
+product: App
+productIcon: smartphone
+section: Fundamental
+sectionIcon: pencil-ruler
+visible: false
