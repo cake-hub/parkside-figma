@@ -18,7 +18,7 @@ Tabs organize the content across different screen areas.
 
 ## Overall styling
 
-- The text-style is [basic bold](../../../../Web/Design/General/Typography/Typography.md#basic-bold).
+- The text-style is [basic bold](../../../../App/Fundamental/General/Typography/Typography.md#basic-bold).
 - The line-height is **default**.
 - The indicator has a **thickness of 4px**.
 

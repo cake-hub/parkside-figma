@@ -37,7 +37,7 @@ Light mode | ![card](assets/elements/light-mode/complete@1x.png)
 
 | Types | Attributes | Preview |
 |---|---|---|
-| default | **icon-color:** greyscale/light-mode/general/high-contrast<br>**title-text-color:** greyscale/light-mode/general/high-contrast<br>**sub-title-text-color:** greyscale/light-mode/general/medium-contrast<br>**description-text-color:** greyscale/light-mode/general/medium-contrast<br>**background-color:** greyscale/light-mode/background/light-2<br>**surface-stroke:** solid greyscale/light-mode/general/low-contrast | ![default](assets/elements/light-mode/default@1x.png) |
+| default | **icon-color:** greyscale/light-mode/general/high-contrast<br>**title-text-color:** greyscale/light-mode/general/high-contrast<br>**sub-title-text-color:** greyscale/light-mode/general/medium-contrast<br>**description-text-color:** greyscale/light-mode/general/medium-contrast<br>**background-color:** greyscale/light-mode/background/light-1<br>**surface-stroke:** solid greyscale/light-mode/general/low-contrast | ![default](assets/elements/light-mode/default@1x.png) |
 
 ### ☾ Dark mode styling
 

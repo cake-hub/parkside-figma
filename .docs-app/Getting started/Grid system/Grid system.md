@@ -28,9 +28,9 @@ A layout grid system can be used to align and size objects within a given frame.
 
 Layout grid style | Property | Preview
 ---------|----------|---------
-| 8pt grid | **Grid** <br> Size: 8pt <br> Color: Werkstatt-brand-primary-blue <br> Opacity: 32% | ![8pt grid](assets/properties/type/layout-grid-8pt.gif)
-| Column center | **Column** <br> Column: Enter X count<br> Color: Werkstatt-brand-primary-red <br> Type: center <br> Opacity: 16% <br> Gutter: Enter X gutter | ![Column center](assets/properties/type/layout-grid-center.gif)
-| Column stretch | **Column** <br> Column: Enter X count<br> Color: Werkstatt-brand-primary-blue <br> Type: center <br> Opacity: 16% <br> Gutter: Enter X gutter | ![Column stretch](assets/properties/type/layout-grid-stretch.gif)
+| 8pt grid | **Grid** <br> Size: 8pt <br> Color: blue-light <br> Opacity: 32% | ![8pt grid](assets/properties/type/layout-grid-8pt.gif)
+| Column center | **Column** <br> Column: Enter X count<br> Color: brand-primary-base <br> Type: center <br> Opacity: 16% <br> Gutter: Enter X gutter | ![Column center](assets/properties/type/layout-grid-center.gif)
+| Column stretch | **Column** <br> Column: Enter X count<br> Color: blue-light <br> Type: center <br> Opacity: 16% <br> Gutter: Enter X gutter | ![Column stretch](assets/properties/type/layout-grid-stretch.gif)
 | Combined on frames | Apply a layout grid to any frame or component. There is a color separation on the column style to differentiate between the column properties.| ![Column stretch](assets/properties/settings/../combined/applying-layout-grids@1x.png)
 
 ---
@@ -42,8 +42,8 @@ Layout grid style | Property | Preview
 | Frame | Desktop HD | Nexus 7 (landscape) | Nexus 7 (portrait) | iPhone SE |
 | Viewport | 1280px - 1440px| 960px | 600px | 320px |
 | Columns | 12 columns | 12 columns | 4 columns | 2 columns |
-| Width for type center | 91 | 64 | 134 | 144 |
+| Width for type **center** | 89 | 62 | 130 | 136 |
 | Gutters | 16px | 16px | 16px | 16px |
 | Layout settings type **center** | ![LG Layout](assets/properties/settings/LG-column-grid-center@1x.png) | ![MD Layout](assets/properties/settings/MD-column-grid-center@1x.png) | ![SM Layout](assets/properties/settings/SM-column-grid-center@1x.png) | ![XS Layout](assets/properties/settings/XS-column-grid-center@1x.png) |
-| Margin for type stretch | 8px / 8px | 8px / 8px | 8px / 8px | 8px / 8px |
+| Margin for type **stretch** | 16px / 16px | 16px / 16px | 16px / 16px | 16px / 16px |
 | Layout settings type **stretch** | ![LG Layout](assets/properties/settings/LG-column-grid-stretch@1x.png) | ![MD Layout](assets/properties/settings/MD-column-grid-stretch@1x.png) | ![SM Layout](assets/properties/settings/SM-column-grid-stretch@1x.png) | ![XS Layout](assets/properties/settings/XS-column-grid-stretch@1x.png) |
