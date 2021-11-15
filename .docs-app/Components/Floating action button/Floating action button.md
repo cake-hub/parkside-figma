@@ -7,7 +7,7 @@ It is mandatory to maintain the appearance and behavior of these components.
 A sticky button that floats over the content of an screen. It always has the highest level of emphasis on the screen.
 
 It supports the primary navigation and offers the user a fast option to navigate.
-There are **two types** of floating action buttons.
+There are **two types** of floating action buttons and they look the same in **dark** and **light** modes.
 
 ---
 

@@ -51,11 +51,21 @@ The actions can be separated into two buttons. The design of two different butto
 - It usually invites users to: sign in, register, purchase, etc.
 - It is used to strongly suggest something that "we" want the user to do in first place.
 
+### ☀ Light mode styling for primary
+
 | State | Icon| Icon with label | Label | Color | Text | Color |
 |---|---|---|---|---|---|---|
-| default | ![Primary icon](assets/types/primary/icon-default@1x.png) | ![Primary label with icon](assets/types/primary/icon-with-label-default@1x.png) | ![Primary label](assets/types/primary/label-default@1x.png) | background: brand-primary/base<br>text: basic/white | ![Primary text](assets/types/primary/text-default@1x.png) | text-color: brand-primary/base |
-| active | ![Primary icon](assets/types/primary/icon-active@1x.png) | ![Primary label with icon](assets/types/primary/icon-with-label-active@1x.png) | ![Primary label](assets/types/primary/label-active@1x.png) | background: brand-primary/dark<br>text: basic/white | ![Primary text](assets/types/primary/text-active@1x.png) | text-color: brand-primary/dark|
-| disabled | ![Primary icon](assets/types/primary/icon-disabled@1x.png) | ![Primary label with icon](assets/types/primary/icon-with-label-disabled@1x.png) | ![Primary label](assets/types/primary/label-disabled@1x.png) | background: greyscale/light-mode/general/low-contrast<br>text: basic/white| ![Primary text](assets/types/primary/text-disabled@1x.png) | text-color: greyscale/light-mode/general/low-contrast |
+| default | ![Primary icon](assets/types/primary/icon-default@1x.png) | ![Primary label with icon](assets/types/primary/icon-with-label-default@1x.png) | ![Primary label](assets/types/primary/label-default@1x.png) | background: brand-primary/base<br>text: basic/white<br>icon: basic/white | ![Primary text](assets/types/primary/text-default@1x.png) | text-color: brand-primary/base |
+| active | ![Primary icon](assets/types/primary/icon-active@1x.png) | ![Primary label with icon](assets/types/primary/icon-with-label-active@1x.png) | ![Primary label](assets/types/primary/label-active@1x.png) | background: brand-primary/dark<br>text: basic/white<br>icon: basic/white | ![Primary text](assets/types/primary/text-active@1x.png) | text-color: brand-primary/dark|
+| disabled | ![Primary icon](assets/types/primary/icon-disabled@1x.png) | ![Primary label with icon](assets/types/primary/icon-with-label-disabled@1x.png) | ![Primary label](assets/types/primary/label-disabled@1x.png) | background: greyscale/light-mode/general/low-contrast<br>text: greyscale/light-mode/general/medium-contrast <br> icon: greyscale/light-mode/general/medium-contrast| ![Primary text](assets/types/primary/text-disabled@1x.png) | text-color: greyscale/light-mode/general/low-contrast |
+
+### ☾ Dark mode styling for primary
+
+| State | Icon| Icon with label | Label | Color | Text | Color |
+|---|---|---|---|---|---|---|
+| default | ![Primary icon](assets/types/primary/icon-default-dark@1x.png) | ![Primary label with icon](assets/types/primary/icon-with-label-default-dark@1x.png) | ![Primary label](assets/types/primary/label-default-dark@1x.png) | background: brand-primary/base<br>text: basic/white <br>icon: basic/white | ![Primary text](assets/types/primary/text-default-dark@1x.png) | text-color: basic/white |
+| active | ![Primary icon](assets/types/primary/icon-active-dark@1x.png) | ![Primary label with icon](assets/types/primary/icon-with-label-active-dark@1x.png) | ![Primary label](assets/types/primary/label-active-dark@1x.png) | background: brand-primary/dark<br>text: basic/white <br>icon: basic/white | ![Primary text](assets/types/primary/text-active-dark@1x.png) | text-color: brand-primary/light|
+| disabled | ![Primary icon](assets/types/primary/icon-disabled-dark@1x.png) | ![Primary label with icon](assets/types/primary/icon-with-label-disabled-dark@1x.png) | ![Primary label](assets/types/primary/label-disabled-dark@1x.png) | background: greyscale/light-mode/general/low-contrast<br>text: greyscale/light-mode/general/medium-contrast<br>icon: greyscale/light-mode/general/medium-contrast| ![Primary text](assets/types/primary/text-disabled-dark@1x.png) | text-color: greyscale/dark-mode/general/low-contrast |
 
 ### Secondary
 
@@ -67,11 +77,21 @@ The actions can be separated into two buttons. The design of two different butto
 - It offers users an alternative to the Primary/CTA (e.g. "back" instead of "next"; "add to wishlist" instead of "add to cart"; "edit", "delete", etc.).
 - It leads the user away from his primary task or forwards to subpages of the website.
 
+### ☀ Light mode styling for secondary
+
 | State | Icon| Icon with label | Label | Color |
 |---|---|---|---|---|
-| default | ![Secondary icon](assets/types/secondary/icon-default@1x.png) | ![Secondary label with icon](assets/types/secondary/icon-with-label-default@1x.png) | ![Secondary label](assets/types/secondary/label-default@1x.png) | background: basic/white<br>stroke: brand-primary/base<br>text: brand-primary/base |
-| active | ![Secondary icon](assets/types/secondary/icon-active@1x.png) | ![Secondary label with icon](assets/types/secondary/icon-with-label-active@1x.png) | ![Secondary label](assets/types/secondary/label-active@1x.png) | background: basic/white<br>stroke: brand-primary/dark<br>text: brand-primary/dark |
-| disabled | ![Secondary icon](assets/types/secondary/icon-disabled@1x.png) | ![Secondary label with icon](assets/types/secondary/icon-with-label-disabled@1x.png) | ![Secondary label](assets/types/secondary/label-disabled@1x.png) | background: basic/white<br>stroke: greyscale/light-mode/general/low-contrast<br>text: greyscale/light-mode/general/low-contrast |
+| default | ![Secondary icon](assets/types/secondary/icon-default@1x.png) | ![Secondary label with icon](assets/types/secondary/icon-with-label-default@1x.png) | ![Secondary label](assets/types/secondary/label-default@1x.png) | background: basic/white<br>stroke: brand-primary/base<br>text: brand-primary/base<br>icon: brand-primary/base |
+| active | ![Secondary icon](assets/types/secondary/icon-active@1x.png) | ![Secondary label with icon](assets/types/secondary/icon-with-label-active@1x.png) | ![Secondary label](assets/types/secondary/label-active@1x.png) | background: basic/white<br>stroke: brand-primary/dark<br>text: brand-primary/dark <br>icon: brand-primary/dark |
+| disabled | ![Secondary icon](assets/types/secondary/icon-disabled@1x.png) | ![Secondary label with icon](assets/types/secondary/icon-with-label-disabled@1x.png) | ![Secondary label](assets/types/secondary/label-disabled@1x.png) | background: basic/white<br>stroke: greyscale/light-mode/general/low-contrast<br>text: greyscale/light-mode/general/low-contrast<br>icon: greyscale/light-mode/general/low-contrast |
+
+### ☾ Dark mode styling for secondary
+
+| State | Icon| Icon with label | Label | Color |
+|---|---|---|---|---|
+| default | ![Secondary icon](assets/types/secondary/icon-default-dark@1x.png) | ![Secondary label with icon](assets/types/secondary/icon-with-label-default-dark@1x.png) | ![Secondary label](assets/types/secondary/label-default-dark@1x.png) | stroke: basic/white<br>text: basic/white<br>icon: basic/white |
+| active | ![Secondary icon](assets/types/secondary/icon-active-dark@1x.png) | ![Secondary label with icon](assets/types/secondary/icon-with-label-active-dark@1x.png) | ![Secondary label](assets/types/secondary/label-active-dark@1x.png) | stroke: brand-primary/light<br>text: brand-primary/light<br>icon: brand-primary/light |
+| disabled | ![Secondary icon](assets/types/secondary/icon-disabled-dark@1x.png) | ![Secondary label with icon](assets/types/secondary/icon-with-label-disabled-dark@1x.png) | ![Secondary label](assets/types/secondary/label-disabled-dark@1x.png) | stroke: greyscale/dark-mode/general/low-contrast<br>text: greyscale/dark-mode/general/low-contrast<br>icon: greyscale/dark-mode/general/low-contrast |
 
 ---
 

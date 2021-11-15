@@ -59,7 +59,7 @@ It helps you to present your design and content as clearly and effectively as po
 
 ## Basic bold
 
-- The typeface is always **semibold**.
+- The typeface is always **bold**.
 - The line-height is **140%**.
 
 | Breakpoint | Font size | Preview | Mode | Align-left | Align-center | Align-right
@@ -171,7 +171,7 @@ It helps you to present your design and content as clearly and effectively as po
 
 ## Large bold
 
-- The typeface is always **semibold**.
+- The typeface is always **bold**.
 - The line-height is **140%**.
 
 | Breakpoint | Font size | Preview | Mode | Align-left | Align-center | Align-right
@@ -262,7 +262,7 @@ Active / pressed | text-color: brand-primary-light | ![active/pressed](assets/li
 
 ## Small bold
 
-- The typeface is always **semibold**.
+- The typeface is always **bold**.
 - The line-height is **140%**.
 
 | Breakpoint | Font size | Preview | Mode | Align-left | Align-center | Align-right

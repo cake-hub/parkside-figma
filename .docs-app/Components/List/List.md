@@ -24,21 +24,21 @@ Lists are interactive components which are used to show content in a vertical or
 
 ### Android styling
 
-- Text-style for Android labels is [basic](../../General/Typography/Typography.md#basic) and color is greyscale/light-mode/general/high-contrast.
-- Text-style for value-text is [small](../../General/Typography/Typography.md#small) and color is greyscale/light-mode/general/high-contrast.
+- Text-style for Android labels is [basic](../../General/Typography/Typography.md#basic) and color for **light mode** is greyscale/light-mode/general/high-contrast and for **dark mode** is greyscale/dark-mode/general/high-contrast.
+- Text-style for value-text is [small](../../General/Typography/Typography.md#small) and color for **light mode** is greyscale/light-mode/general/high-contrast and for **dark mode** is greyscale/dark-mode/general/high-contrast.
 - The line-height is set to **default**.
-- Android dividers have 1px thickness and color is greyscale/light-mode/general/extra-low-contrast.
-- Icon size is always **24x24px** and color is greyscale/light-mode/general/high-contrast.
-- When list is disabled icons and text have color greyscale/light-mode/general/low-contrast.
+- Android dividers have 1px thickness and color for **light mode** is greyscale/light-mode/general/extra-low-contrast and for **dark mode** is greyscale/dark-mode/general/extra-low-contrast.
+- Icon size is always **24x24px** and color in **light mode** is greyscale/light-mode/general/high-contrast and in **dark mode** is greyscale/dark-mode/general/high-contrast.
+- When list is disabled icons and text in **light mode** have greyscale/light-mode/general/low-contrast color and in **dark mode **have greyscale/dark-mode/general/low-contrast color.
 
 ### iOS styling
 
-- Text style for iOS labels is [basic bold](../../General/Typography/Typography.md#basic-bold) and color is greyscale/light-mode/general/high-contrast.
-- Text style for value-text is [small](../../General/Typography/Typography.md#small) and color is greyscale/light-mode/general/high-contrast
+- Text style for iOS labels is [basic bold](../../General/Typography/Typography.md#basic-bold) and color for **light mode** is greyscale/light-mode/general/high-contrast and for **dark mode** is greyscale/dark-mode/general/high-contrast..
+- Text style for value-text is [small](../../General/Typography/Typography.md#small) and color for **light mode** is greyscale/light-mode/general/high-contrast and for **dark mode** is greyscale/dark-mode/general/high-contrast.
 - The line-height is set to **default**.
-- Dividers have 0.5px thickness and color is greyscale/light-mode/general/low-contrast.
-- Icon size is always **24x24px** and color is greyscale/light-mode/general/high-contrast.
-- When list is disabled icons and text have color greyscale/light-mode/general/low-contrast.
+- Dividers have 0.5px thickness and color in **light mode** is greyscale/light-mode/general/low-contrast and in **dark mode** the color is greyscale/dark-mode/general/low-contrast.
+- Icon size is always **24x24px** and color in **light mode** is greyscale/light-mode/general/high-contrast and in **dark mode** is greyscale/dark-mode/general/high-contrast.
+- When list is disabled icons and text in **light mode** have greyscale/light-mode/general/low-contrast color and in **dark mode** have greyscale/dark-mode/general/low-contrast color.
 
 ---
 
@@ -83,19 +83,33 @@ Lists are interactive components which are used to show content in a vertical or
 
 - It is used to set a value which is selected on a separate page.
 
-### Android
+### ☀ Light mode styling for Android
 
 | States |  Preview |
 |---|---|
 | default | ![android picker default](assets/states/android-picker-default@1x.png) |
 | disabled | ![android picker disabled](assets/states/android-picker-disabled@1x.png) |
 
-### iOS
+### ☾ Dark mode styling for Android
+
+| States |  Preview |
+|---|---|
+| default | ![android picker default](assets/states/android-picker-default-dark@1x.png) |
+| disabled | ![android picker disabled](assets/states/android-picker-disabled-dark@1x.png) |
+
+### ☀ Light mode styling for iOS
 
 | States |  Preview |
 |---|---|
 | default | ![ios picker default](assets/states/ios-picker-default@1x.png) |
 | disabled | ![ios picker disabled](assets/states/ios-picker-disabled@1x.png) |
+
+### ☾ Dark mode styling for iOS
+
+| States |  Preview |
+|---|---|
+| default | ![ios picker default](assets/states/ios-picker-default-dark@1x.png) |
+| disabled | ![ios picker disabled](assets/states/ios-picker-disabled-dark@1x.png) |
 
 ---
 
