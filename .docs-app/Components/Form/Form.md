@@ -100,6 +100,25 @@ Forms are used to accept the user's input. They can be displayed in many differe
 | selected disabled | text-color: greyscale/dark-mode/general/low-contrast<br>border: greyscale/dark-mode/general/low-contrast<br>icon-color: greyscale/dark-mode/general/low-contrast| ![radiobutton unselected selected-disabled](assets/radiobutton/selected-disabled-dark@1x.png) |
 | selected error | text-color: orange/light<br>border: orange/base<br>icon-color: orange/base | ![radiobutton unselected selected-error](assets/radiobutton/selected-error-dark@1x.png)|
 
+### iOS selection
+
+- Used for multiple selections in iOS.
+- Can be combined with iOS list component.
+
+### ☀ Light mode styling for iOS selection
+
+| States | Attributes | Preview |
+|---|---|---|
+| unselected | outline-color: greyscale/light-mode/general/extra-low-contrast | ![ios selection-unselected](assets/ios-selection/unselected-light@1x.png) |
+| selected | background-color: brand-primary/base <br> icon-color: basic/white | ![ios selection-selected](assets/ios-selection/selected-light@1x.png) |
+
+### ☾ Dark mode styling for iOS selection
+
+| States | Attributes | Preview |
+|---|---|---|
+| unselected | outline-color: greyscale/dark-mode/general/low-contrast | ![ios selection-unselected](assets/ios-selection/unselected-dark@1x.png) |
+| selected |background-color: brand-primary/base <br> icon-color: basic/white | ![ios selection-selected](assets/ios-selection/selected-dark@1x.png) |
+
 ---
 
 ## Form fields

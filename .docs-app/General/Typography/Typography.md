@@ -292,10 +292,12 @@ Active / pressed | text-color: brand-primary-light | ![active/pressed](assets/li
 
 ---
 
-## Our workflow in Figma
+## Our workflow
 
 - All text style properties are included in our CAKE UI Library for Parkside.
 - Use only these styles!
 - Combine given color styles with text styles.
 - The default settings of each text box is set to **left align** and the resize option is set to **auto width**. Set the alignment and the resize options of each text block individually.<br>
 ![Type details](assets/typeface/workflow/type-details.png)
+- The desired line-height can be calculated in your preferred tool in the line-height input field by using multiplication:
+  - Font size \* line height decimal number and then press enter. For example 120% line height for 18px text is calculated this way: <br>18 \* 1,2 = 21,6<br>![Line height calculation](assets/calculation/line-height.png)
